@@ -1,12 +1,44 @@
-# zero2hero
-<h6 >Hi 👋, I'm Sanjna</h6>
-<h3 >Come join me as I explore the fundamentals of system design and DSA (Data Structures and Algorithms), searching for the best resources available on the internet. Together, we'll delve into these topics from the ground up, learning and discovering along the way.</h3>
-
-- 🔭 I’m currently working on [sss](sss)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://blog.bytebytego.com/?utm_source=site"><img src="images/banner.jpg" /> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  【
+  <a href="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw">
+    👨🏻‍💻 YouTube
+  </a> | 
+  <a href="https://blog.bytebytego.com/?utm_source=site">
+    📮 Newsletter
+  </a> 】
+</p>
+
+<a href="https://trendshift.io/repositories/3709" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3709" alt="ByteByteGoHq%2Fsystem-design-101 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+# System Design 101
+
+Explain complex systems using visuals and simple terms. 
+
+Whether you're preparing for a System Design Interview or you simply want to understand how systems work beneath the surface, we hope this repository will help you achieve that.
+
+# Table of Contents
+
+<!-- TOC toc.levels=2 -->
+
+- [Communication protocols](#communication-protocols)
+  - [REST API vs. GraphQL](#rest-api-vs-graphql)
+
+  - [CI/CD Pipeline Explained in Simple Terms](#cicd-pipeline-explained-in-simple-terms)
+  - [Netflix Tech Stack (CI/CD Pipeline)](#netflix-tech-stack-cicd-pipeline)
+
+
+<!-- /TOC -->
+
+## Communication protocols
+
+
+
+
+### REST API vs. GraphQL
+
+When it comes to API design, REST and GraphQL each have their own strengths and weaknesses.
+
