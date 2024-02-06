@@ -1,14 +1,12 @@
 
 
-# Welcome to Zero to hero with System Design 
+# Zero2Hero with System Design 
 
-Explain complex systems using visuals and simple terms. 
-
-Whether you're preparing for a System Design Interview or you simply want to understand how systems work beneath the surface, we hope this repository will help you achieve that.
+Come join me as I explore the fundamentals of system design and DSA (Data Structures and Algorithms), searching for the best resources available on the internet. Together, we'll delve into these topics from the ground up, learning and discovering along the way.
 
 # Table of Contents
 
-<!-- TOC toc.levels=2 -->
+
 
 - [Communication protocols](#communication-protocols)
   - [REST API vs. GraphQL](#rest-api-vs-graphql)
@@ -17,7 +15,7 @@ Whether you're preparing for a System Design Interview or you simply want to und
   - [Netflix Tech Stack (CI/CD Pipeline)](#netflix-tech-stack-cicd-pipeline)
 
 
-<!-- /TOC -->
+
 
 ## Communication protocols
 
