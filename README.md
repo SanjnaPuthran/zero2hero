@@ -1,6 +1,6 @@
 # zero2hero
-<h60 >Hi 👋, I'm Sanjna</h6>
-<h3 align="center">Come join me as I explore the fundamentals of system design and DSA (Data Structures and Algorithms), searching for the best resources available on the internet. Together, we'll delve into these topics from the ground up, learning and discovering along the way.</h3>
+<h6 >Hi 👋, I'm Sanjna</h6>
+<h3 >Come join me as I explore the fundamentals of system design and DSA (Data Structures and Algorithms), searching for the best resources available on the internet. Together, we'll delve into these topics from the ground up, learning and discovering along the way.</h3>
 
 - 🔭 I’m currently working on [sss](sss)
 
