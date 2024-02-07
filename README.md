@@ -19,7 +19,7 @@ Come join me as I explore the fundamentals of system design and DSA (Data Struct
 
 ## Communication protocols
 ## Introduction to System Design
-https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a 
+[https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a ]([url](https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a))
 
 
 
