@@ -20,6 +20,10 @@ Come join me as I explore the fundamentals of system design and DSA (Data Struct
 ## Communication protocols
 ## Introduction to System Design
 [Introduction to System Design](https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+## Components of System Design
+[Components of System Design](https://www.youtube.com/watch?v=aSvOThsVe5w&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=2)
+## Client Server Architecture
+[Client Server Architecture](https://www.youtube.com/watch?v=Dg1U-jwVUrg&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a&index=3)
 
 
 
