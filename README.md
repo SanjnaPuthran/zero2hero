@@ -31,7 +31,7 @@ Come join me as I explore the fundamentals of system design and DSA (Data Struct
 - [API Gateway](url)
 
 Here's a breakdown of the differences between proxy, reverse proxy, load balancer, and API gateway:
-1.	Proxy:
+###1.	Proxy:
 -A proxy server acts as an intermediary between clients and backend servers.
 -Proxies are often used to control and monitor outbound traffic from clients.
 -	They can provide features such as caching, content filtering, and access control.
@@ -44,7 +44,7 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 -	Caching
 -	Encryption and decryption (IP Address)
 	
-2.	Reverse Proxy:
+###2.	Reverse Proxy:
 -	A reverse proxy server sits between clients and backend servers.
 -	It intercepts incoming requests from clients and forwards them to the appropriate backend server.
 -	Reverse proxies are commonly used for load balancing, SSL termination, and protecting backend servers from direct exposure to the internet.
@@ -53,12 +53,12 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 -	**Reverse proxy isolates servers from internet**
 
 	
-3.	Load Balancer:
+###3.	Load Balancer:
 -	A load balancer distributes incoming traffic across multiple backend servers to improve scalability, availability, and performance.
 -	Load balancers can operate at various layers of the OSI model, including network (Layer 4) and application (Layer 7) levels.
 -	They can use different algorithms to determine how to distribute traffic, such as round-robin, least connections, or IP hashing.
 -	Examples include hardware load balancers, software load balancers, and cloud-based load balancers like AWS Elastic Load Balancing (ELB) and Google Cloud Load Balancing.
-4.	API Gateway:
+###4.	API Gateway:
 -	An API gateway is a specialized type of reverse proxy that sits between clients and backend API services.
 -	It acts as a single entry point for clients to access multiple APIs and provides features such as 
 -	**routing**, 
