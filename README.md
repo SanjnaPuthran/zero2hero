@@ -61,8 +61,8 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 ### 4.	API Gateway:
 -	An API gateway is a specialized type of reverse proxy that sits between clients and backend API services.
 -	It acts as a single entry point for clients to access multiple APIs and provides features such as 
--	**routing**, 
-- **	authentication, 
+-	**routing**,
+- 	**authentication, 
 -	authorization, 
 -	rate limiting, and 
 -	request/response transformation.**
