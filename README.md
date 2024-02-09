@@ -53,7 +53,7 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 -	**Reverse proxy isolates servers from internet**
 
 	
-###3.	Load Balancer:
+### 3.	Load Balancer:
 -	A load balancer distributes incoming traffic across multiple backend servers to improve scalability, availability, and performance.
 -	Load balancers can operate at various layers of the OSI model, including network (Layer 4) and application (Layer 7) levels.
 -	They can use different algorithms to determine how to distribute traffic, such as round-robin, least connections, or IP hashing.
@@ -62,7 +62,7 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 -	An API gateway is a specialized type of reverse proxy that sits between clients and backend API services.
 -	It acts as a single entry point for clients to access multiple APIs and provides features such as 
 -	**routing**, 
--**	authentication, 
+- **	authentication, 
 -	authorization, 
 -	rate limiting, and 
 -	request/response transformation.**
