@@ -73,37 +73,37 @@ Here's a breakdown of the differences between proxy, reverse proxy, load balance
 
 Databases can be categorized into several types based on their structure, functionality, and purpose. Here are some common types of databases:
 ### 1.	Relational Databases (RDBMS):
-	Relational databases organize data into tables with rows and columns.
-	They use structured query language (SQL) for querying and managing data.
-	Examples include MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, and SQLite.
+-	Relational databases organize data into tables with rows and columns.
+-	They use structured query language (SQL) for querying and managing data.
+-	Examples include MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, and SQLite.
 ### 2.	NoSQL Databases:
-	NoSQL databases are designed to handle large volumes of unstructured or semi-structured data.
-	They are often used in distributed systems and can scale horizontally.
-	Types of NoSQL databases include:
-•	Document-oriented databases (e.g., MongoDB, Couchbase)
-•	Key-value stores (e.g., Redis, DynamoDB)
-•	Column-family stores (e.g., Cassandra, HBase)
-•	Graph databases (e.g., Neo4j, Amazon Neptune)
+-	NoSQL databases are designed to handle large volumes of unstructured or semi-structured data.
+-	They are often used in distributed systems and can scale horizontally.
+-	Types of NoSQL databases include:
+-	Document-oriented databases (e.g., MongoDB, Couchbase)
+-	Key-value stores (e.g., Redis, DynamoDB)
+-	Column-family stores (e.g., Cassandra, HBase)
+-	Graph databases (e.g., Neo4j, Amazon Neptune)
 ### 3.	Graph Databases:
-	Graph databases are designed to represent and store data in terms of entities and their relationships.
-	They are well-suited for applications like social networks, recommendation systems, and network analysis.
-	Examples include Neo4j, Amazon Neptune, and TigerGraph.
+-	Graph databases are designed to represent and store data in terms of entities and their relationships.
+-	They are well-suited for applications like social networks, recommendation systems, and network analysis.
+-	Examples include Neo4j, Amazon Neptune, and TigerGraph.
 ### 4.	Time-Series Databases:
-	Time-series databases are optimized for handling time-stamped or sequential data.
-	They are commonly used for storing and analyzing data generated over time, such as sensor data, log data, and financial data.
-	Examples include InfluxDB, Prometheus, and TimescaleDB.
+-	Time-series databases are optimized for handling time-stamped or sequential data.
+-	They are commonly used for storing and analyzing data generated over time, such as sensor data, log data, and financial data.
+-	Examples include InfluxDB, Prometheus, and TimescaleDB.
 ### 5.	Object-Oriented Databases:
-	Object-oriented databases store data in the form of objects, which encapsulate data and behavior.
-	They are suitable for applications with complex data models and object-oriented programming paradigms.
-	Examples include db4o and ObjectDB.
+-	Object-oriented databases store data in the form of objects, which encapsulate data and behavior.
+-	They are suitable for applications with complex data models and object-oriented programming paradigms.
+-	Examples include db4o and ObjectDB.
 ### 6.	In-Memory Databases:
-	In-memory databases store data primarily in RAM, enabling faster data access and processing.
-	They are commonly used for applications requiring high-speed data retrieval and real-time analytics.
-	Examples include Redis, Memcached, and VoltDB.
+-	In-memory databases store data primarily in RAM, enabling faster data access and processing.
+-	They are commonly used for applications requiring high-speed data retrieval and real-time analytics.
+-	Examples include Redis, Memcached, and VoltDB.
 ### 7.	Spatial Databases:
-	Spatial databases are designed to store and query spatial data, such as geographic information system (GIS) data.
-	They support spatial data types and spatial indexing for efficient spatial queries.
-	Examples include PostGIS and Oracle Spatial.
+-	Spatial databases are designed to store and query spatial data, such as geographic information system (GIS) data.
+-	They support spatial data types and spatial indexing for efficient spatial queries.
+-	Examples include PostGIS and Oracle Spatial.
 
 
 
