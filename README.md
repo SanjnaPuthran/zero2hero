@@ -107,13 +107,20 @@ Databases can be categorized into several types based on their structure, functi
 
 ### When should u consider nosql database
 
-### 1.	Scalability: If your application needs to handle large volumes of data and high traffic loads, NoSQL databases are often more scalable than traditional relational databases. They are designed to scale horizontally across multiple servers, allowing you to distribute data and workload effectively.
-### 2.	Schema Flexibility: NoSQL databases offer flexible schemas, allowing you to store data without a predefined schema or with a schema that can evolve over time. This is particularly useful in scenarios where the data model is complex, dynamic, or subject to frequent changes.
-### 3.	Semi-Structured or Unstructured Data: NoSQL databases are well-suited for storing semi-structured or unstructured data, such as JSON documents, XML, key-value pairs, or graphs. They can handle diverse data types and structures without requiring strict schema definitions.
-### 4.	High Availability and Fault Tolerance: Many NoSQL databases are designed with built-in features for high availability and fault tolerance. They can replicate data across multiple nodes in a cluster, ensuring that the system remains available even in the event of hardware failures or network partitions.
-### 5.	Performance: NoSQL databases are optimized for performance, especially for specific use cases such as real-time analytics, caching, and high-speed data ingestion. They can efficiently handle read and write operations at scale, making them suitable for applications with demanding performance requirements.
-### 6.	Distributed Systems: NoSQL databases are often used in distributed systems and cloud environments, where data needs to be distributed across multiple regions or data centers. They provide features such as data replication, sharding, and automatic failover, making them well-suited for distributed architectures.
-### 7.	Use Case Specific Requirements: Some applications have specific requirements that are better addressed by NoSQL databases. For example, document databases like MongoDB are well-suited for content management systems and real-time analytics, while graph databases like Neo4j are ideal for applications that need to model and query complex relationships.
+### 1.	Scalability: 
+If your application needs to handle large volumes of data and high traffic loads, NoSQL databases are often more scalable than traditional relational databases. They are designed to scale horizontally across multiple servers, allowing you to distribute data and workload effectively.
+### 2.	Schema Flexibility: 
+NoSQL databases offer flexible schemas, allowing you to store data without a predefined schema or with a schema that can evolve over time. This is particularly useful in scenarios where the data model is complex, dynamic, or subject to frequent changes.
+### 3.	Semi-Structured or Unstructured Data: 
+NoSQL databases are well-suited for storing semi-structured or unstructured data, such as JSON documents, XML, key-value pairs, or graphs. They can handle diverse data types and structures without requiring strict schema definitions.
+### 4.	High Availability and Fault Tolerance: 
+Many NoSQL databases are designed with built-in features for high availability and fault tolerance. They can replicate data across multiple nodes in a cluster, ensuring that the system remains available even in the event of hardware failures or network partitions.
+### 5.	Performance:
+NoSQL databases are optimized for performance, especially for specific use cases such as real-time analytics, caching, and high-speed data ingestion. They can efficiently handle read and write operations at scale, making them suitable for applications with demanding performance requirements.
+### 6.	Distributed Systems: 
+NoSQL databases are often used in distributed systems and cloud environments, where data needs to be distributed across multiple regions or data centers. They provide features such as data replication, sharding, and automatic failover, making them well-suited for distributed architectures.
+### 7.	Use Case Specific Requirements: 
+Some applications have specific requirements that are better addressed by NoSQL databases. For example, document databases like MongoDB are well-suited for content management systems and real-time analytics, while graph databases like Neo4j are ideal for applications that need to model and query complex relationships.
 
 
 
